@@ -6,3 +6,4 @@
 
 [Your First Extension](https://code.visualstudio.com/api/get-started/your-first-extension)
 
+[Extension API](https://code.visualstudio.com/api)
